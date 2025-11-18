@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Zayad Maiyaki
 =====================================================================================================================================
 
-3rd Year Computer Science Student
+4th Year Computer Science Student
 ---------------------------------
 
 I am a dedicated forth-year computer science student with a strong academic background in programming, algorithms, data structures, databases, and software development. My journey in computer science has provided me with practical skills in multiple programming languages and tools, and I am continually seeking to expand my technical knowledge and expertise.
