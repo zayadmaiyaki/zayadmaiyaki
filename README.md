@@ -7,7 +7,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I am a dedicated forth-year computer science student with a strong academic background in programming, algorithms, data structures, databases, and software development. My journey in computer science has provided me with practical skills in multiple programming languages and tools, and I am continually seeking to expand my technical knowledge and expertise.
 
 * 🌍  I'm based in Ottawa
-* ✉️  You can contact me at [maiyakizayad2@gmail.com](mailto:maiyakizayad2@gmail.com)
+* ✉️  You can contact me at [maiyakizayad2@gmail.com](mailto:maiyakizayad3@gmail.com)
 * 🧠  I'm learning NodeJS
 * 🤝  I'm open to collaborating on any interesting projects
 
